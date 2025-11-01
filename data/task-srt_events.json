@@ -1,0 +1,29 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "seconds"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "seconds"
+  },
+
+  "event_type": {
+    "Description": "Type of event",
+    "Levels": {
+      "S 10": "Break",
+      "S 12": "Beginning of the run",
+      "S 1": "Response",
+      "S 5": "Stimulus"
+    }
+  },
+
+  "trial_type": {
+    "Description": "Type of trial",
+    "Levels": {
+      "stimulus": "Task stimulus",
+      "response": "Response to the stimulus: 1, 2 or 3"
+    }
+  }
+
+}

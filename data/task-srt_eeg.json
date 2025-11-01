@@ -1,0 +1,16 @@
+{
+    "TaskName": "Simple reaction time task (SRT)",
+    "TaskDescription": "SRT (simple reaction time) task data can be easily compared to the results of other tasks and provides a measure of the basic capabilities of the participants. In particular, the SRT gauges participants’ ‘average’ reaction time in response to visual stimuli, which is considered the most basic measure of processing speed. A simple stimulus (‘000’) was displayed (900 ms) centrally on the screen with 700-1200 ms ISIs (in steps of 100 ms). The participant was instructed to respond with an index finger (pressing ‘2’ on a numerical keyboard) as fast as possible. On average, 129 trials were presented to each subject.",
+    "SamplingFrequency": 1000,
+    "ManufacturersModelName": "Brain Products GmbH actiCHamp",
+    "CapManufacturersModelName": "Brain Products GmbH",
+    "EEGReference": "FCz",
+    "EEGGround": "FPz",
+    "PowerLineFrequency": 50,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": {
+        "Lowpass": {
+            "Hz": 280
+        }
+    }
+}

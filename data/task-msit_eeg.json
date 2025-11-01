@@ -1,0 +1,16 @@
+{
+    "TaskName": "Extended Multi-Source Interference Task (MSIT+)",
+    "TaskDescription": "Extended MSIT (MSIT+) is a task design to study cognitive control and conflict processing. Standard version was firstly described by Bush et al. in 2006. The extended MSIT contains four conditions: 00 (no interference, non-conflict), S0 (Simon effect), F0 (Flanker effect), and FS (double-conflict, Simon and Flanker effects combined). Three digits are displayed in the center of the screen, including two digits that are always identical and one deviant. Participants are instructed to indicate the deviant digit in each set. In each trial, the stimulus was presented for 900 ms and followed an interstimulus interval (ISI) that ranged from 800-1300 ms (in steps of 100 ms). Task duration with breaks was set to ~22 min.",
+    "SamplingFrequency": 1000,
+    "ManufacturersModelName": "Brain Products GmbH actiCHamp",
+    "CapManufacturersModelName": "Brain Products GmbH",
+    "EEGReference": "FCz",
+    "EEGGround": "FPz",
+    "PowerLineFrequency": 50,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": {
+        "Lowpass": {
+            "Hz": 280
+        }
+    }
+}

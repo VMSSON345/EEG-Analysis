@@ -1,0 +1,24 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "seconds"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "seconds"
+  },
+
+  "event_type": {
+    "Description": "Type of event",
+    "Levels": {
+      "S 10": "Start of a break",
+      "S 11": "End of a break",
+      "S 12": "Beginning of the task"
+    }
+  },
+
+  "trial_type": {
+    "Description": "Type of trial"
+  }
+
+}
