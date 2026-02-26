@@ -1,8 +1,6 @@
 #  EEG Based Event Classification using Machine Learning
 
 Dự án này tập trung vào việc phân loại các sự kiện dựa trên tín hiệu điện não đồ (EEG) thông qua các mô hình Học máy (Machine Learning).  
-Dự án được thực hiện tại **Viện Trí tuệ Nhân tạo, Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội**.
-
 ---
 
 ##  Giới thiệu Dự án
